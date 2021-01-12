@@ -1,0 +1,2 @@
+# CFPB-Consumer-Financial-Protection-Bureau
+Python Code which updates/download Last 12 month complaint data monthly in csv format. You have to download CFPB complaint data monthly in csv format for historical dates to use this code. Python code calculate Monetary &amp; Non-Monetary Relief and consumer dispute percentage to the total complain in one year (roll over dates), cut-off date is last calendar date - 7 calendar dates. Consumer Financial Protection Bureau, website - https://www.consumerfinance.gov/ 
